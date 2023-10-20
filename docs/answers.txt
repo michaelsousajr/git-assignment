@@ -1,0 +1,39 @@
+GitLab date: 12/19/23
+Github date: 02/28/22
+
+1.
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   status.txt
+
+2. 
+commits so far: 8
+
+3. 
+2023-10-19 22:41:51 -0400
+git log -1 --format="%ai" README.md
+
+4. 
+- Branches allow developers to work on features, fixes, or experiments without affecting the main codebase.
+- They enable multiple versions of the project to exist simultaneously, facilitating parallel development efforts.
+
+5.
+git log: Displays the commit history with details like commit hashes, authors, and timestamps.
+git status: Shows the current state of the working directory, including untracked, modified, and staged files.
+
+6.
+git log Vehicle.h
+
+7. 
+git log --grep="file"
+
+8.
+(I) Inheritance: Mechanism where a new class derives properties from an existing class.
+(II) Polymorphism: Ability of a function or method to work in different ways based on the object.
+(III) Encapsulation: Bundling data and methods operating on that data, restricting direct access.
+
+9.
+"Dictator and Lieutenants" has one main developer with lieutenants managing parts. "Integration Manager" has multiple managers with one maintainer merging their contributions.
+
+10.
+"Dictator and Lieutenants" decentralizes decision-making, enabling efficient parallel work and specialized oversight, while "Centralized" can bottleneck with many contributors.
